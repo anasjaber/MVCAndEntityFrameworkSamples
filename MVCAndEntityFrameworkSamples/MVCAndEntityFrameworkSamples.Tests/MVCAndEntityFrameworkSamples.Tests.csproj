@@ -6,7 +6,7 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{34126729-29E6-4C62-928A-8DD73D6CE32E}</ProjectGuid>
+    <ProjectGuid>{035F291B-029E-452F-8691-A414D28FEF2B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>MVCAndEntityFrameworkSamples.Tests</RootNamespace>
@@ -108,7 +108,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\MVCAndEntityFrameworkSamples\MVCAndEntityFrameworkSamples.csproj">
-      <Project>{3926B75A-D4C1-423D-A4F3-EE9D874B9FDF}</Project>
+      <Project>{7B2B1B5B-1F3C-4C3D-99EC-47C9E72E42A4}</Project>
       <Name>MVCAndEntityFrameworkSamples</Name>
     </ProjectReference>
   </ItemGroup>
